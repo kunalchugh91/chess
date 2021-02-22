@@ -1,0 +1,13 @@
+.innerbox {
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    background-color: red;
+    box-sizing: border-box;
+}
+
+.pic {
+    height: 90%;
+    width: 90%;
+    padding: 5%;
+}

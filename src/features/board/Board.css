@@ -1,0 +1,18 @@
+.board {
+    height: 640px;
+    width: 640px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    border: 1px solid black;
+    padding: 1px;
+    margin:auto;
+    border-radius: 5px;
+}
+
+.box {
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+    box-sizing: border-box;
+}
